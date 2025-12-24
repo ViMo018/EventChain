@@ -159,8 +159,8 @@ We welcome contributions from developers, designers, and blockchain enthusiasts.
 
 Before contributing, please read the official contribution documents to ensure a smooth review process:
 
-- 📘 Contribution Guide: CONTRIBUTORS_GUIDE.md
-- 📄 Pull Request Template: PR_TEMPLATE.md
+- 📘 Contribution Guide: CONTRIBUTING.md
+- 📄 Pull Request Template: PULL_REQUEST_TEMPLATE.md
 
 These documents explain:
 
@@ -182,7 +182,7 @@ These documents explain:
 5. Push the branch to your fork
 6. Open a Pull Request using the provided PR template
 
->⚠️ Pull requests that do not follow the contribution guidelines or PR template may be requested for changes or closed.
+>⚠️ Pull requests that do not follow the contribution guidelines or the **PULL REQUEST template** may be requested for changes or closed.
 
 
 ### Areas Open for Contribution
