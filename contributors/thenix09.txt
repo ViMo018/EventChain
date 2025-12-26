@@ -1,0 +1,4 @@
+# This is the template for contributors!
+
+Github: thenix09
+College: IIIT Allahabad
