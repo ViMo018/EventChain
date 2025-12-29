@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 /**
- * @title HeroOfTheVillage
+ * @title Eventchain
  * @dev ERC-721 NFT contract with deposit, withdraw, and balance functions
  * @author sshekhar563
  */
